@@ -1,19 +1,20 @@
 # Second-Checkpoint
 
 ## Team Name
-Write your team name here
+PixelPioneers
 
 ## Team Member
-Write name of your team members
+Vivek Maurya, Saksham Chauhan, Vishnu Shah Sisodiya and Yogesh Garg
 
 ## Problem Statement
-Mention your Problem Statement along with it's number
+1. Environmental Sustainability
+(Waste Management)
+
 
 ## Description
-What progress you have done from checkpoint 1 till now
-
+•	Take user input about the different types of waste they recycled, and on the basis of that, give them a little feedback about what impact they may have in the future (Primitive Version).
+•	User details can be stored in MongoDB through signup page and data can be fetched through Login page.
+•	End points for creating and fetching the userdata is created(Backend).
 ## Repository Link
-Write Link to your repository
+[Write Link to your repository](https://github.com/vivekmaurya001/First-Checkpoint-)https://github.com/vivekmaurya001/First-Checkpoint-
 
-## Other Link
-Video of Website or App

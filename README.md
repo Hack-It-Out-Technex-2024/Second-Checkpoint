@@ -1,7 +1,7 @@
 # Second-Checkpoint
 
 ## Team Name
-Team Pahadan
+Pahadan
 
 ## Team Member
 Kartikey Srivastava, Vidhi Jaiswal and Ritwija Deep
@@ -10,10 +10,10 @@ Kartikey Srivastava, Vidhi Jaiswal and Ritwija Deep
 4 Financial Inclusion
 
 ## Description
-What progress you have done from checkpoint 1 till now
+Done with Complaint Forum
 
 ## Repository Link
-Write Link to your repository
+https://github.com/Antrimo/IIT-BHU-Hackathon
 
 ## Other Link
-Video of Website or App
+App: https://drive.google.com/file/d/1k0ymeGuiqhu4RcHTn8VhLMXGocn5c_sO/view?usp=sharing

@@ -1,13 +1,13 @@
 # Second-Checkpoint
 
 ## Team Name
-Write your team name here
+Team Pahadan
 
 ## Team Member
-Write name of your team members
+Kartikey Srivastava, Vidhi Jaiswal and Ritwija Deep
 
 ## Problem Statement
-Mention your Problem Statement along with it's number
+4 Financial Inclusion
 
 ## Description
 What progress you have done from checkpoint 1 till now

@@ -1,5 +1,7 @@
 # Second-Checkpoint
 
+Goal 3: Smart Cities
+
 ## Team Name
 Write your team name here
 

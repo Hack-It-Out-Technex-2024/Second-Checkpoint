@@ -16,4 +16,4 @@ Added database and google authentication along with updating and revamping the l
 [IITN Devs Repository](https://github.com/DebdipWritesCode/IITN-Devs-Ideation)
 
 ## Other Link
-Video of Website or App
+[PPT and video](https://drive.google.com/drive/folders/1oiRw6HRIz7PwmV43QSbNhKjgvhNDy5gd)

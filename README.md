@@ -1,19 +1,28 @@
 # Second-Checkpoint
 
 ## Team Name
-Write your team name here
+
+Lazy Developers
 
 ## Team Member
-Write name of your team members
+
+1. Deepti Agarwal
+2. Ditin Agrawal
+3. Srishti Agarwal
 
 ## Problem Statement
 Mention your Problem Statement along with it's number
 
 ## Description
-What progress you have done from checkpoint 1 till now
+
+1. Added a whole new page for purchase section
+2. Modified Home page and Authentication Links
+3. Started Dumpsters section
 
 ## Repository Link
-Write Link to your repository
+
+https://github.com/ditinagrawal/Second-Checkpoint
 
 ## Other Link
+
 Video of Website or App

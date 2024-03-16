@@ -1,16 +1,19 @@
 # Second-Checkpoint
 
 ## Team Name
-Write your team name here
+### IIITN Devs
 
 ## Team Member
-Write name of your team members
+* Debdip Mukherjee
+* Akshat Gupta
+* Danish Ahmad
+* Shubh Samaiya
 
 ## Description
-What progress you have done from checkpoint 1 till now
+Added database and google authentication along with updating and revamping the layout of portal 1(Navigating the road maze)
 
 ## Repository Link
-Write Link to your repository
+[IITN Devs Repository](https://github.com/DebdipWritesCode/IITN-Devs-Ideation)
 
 ## Other Link
 Video of Website or App

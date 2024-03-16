@@ -1,19 +1,25 @@
 # Second-Checkpoint
 
 ## Team Name
-Write your team name here
+HAWK
 
 ## Team Member
-Write name of your team members
+KRISH MONGA
+SHIVANSH MAHAJAN
+RAGHAV JOSHI
+ARPIT SHARMA
+
 
 ## Problem Statement
-Mention your Problem Statement along with it's number
+
+Biodiversity Conservation: Develop tools that contribute to the preservation of biodiversity and the protection of endangered species. This could include applications for monitoring wildlife, tracking deforestation, or promoting sustainable agricultural practices.
 
 ## Description
-What progress you have done from checkpoint 1 till now
+created the 3d model of our prototype did css and things in the exsisting repo mentioned working on the js part ,did added all the animation and parallax effect to the code 
 
-## Repository Link
-Write Link to your repository
+## repository link--
+https://github.com/shivansh488/hawk
 
-## Other Link
-Video of Website or App
+## Other Link:-
+## 3D model of our farming wizard
+https://app.vectary.com/p/3FuFIDlLS28MNrJFB4xF2a
